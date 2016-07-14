@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/intro-bg_1.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -137,7 +137,7 @@ email: "alifaizankazmi@gmail.com"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Ali Faizan Kazmi is a Computer Scientist currently working at Morgan Stanley as a Front End Developer."
-author_blurb_image: "/img/author.png"
+author_blurb_image: "/img/author_1.png"
 
 ##################
 # Social Buttons #
