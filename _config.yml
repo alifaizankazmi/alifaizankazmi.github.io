@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "The lower you fall, the higher you'll fly."
   - text: "Where’s your will to be weird?"
 
-me-img: "/img/author_1.png" #"/img/jetpacktocat.png"
+me-img: "/img/author_2.png" #"/img/jetpacktocat.png"
 
 ##############################
 # Color the browser elements #
@@ -137,7 +137,7 @@ email: "alifaizankazmi@gmail.com"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Ali Faizan Kazmi is a Computer Scientist currently working at Morgan Stanley as a Front End Developer."
-author_blurb_image: "/img/author_1.png"
+author_blurb_image: "/img/author_2.png"
 
 ##################
 # Social Buttons #
